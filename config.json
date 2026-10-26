@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-with-pytest",
+      "title": "Automated Testing with Pytest",
+      "description": "Write automated tests for a FastAPI REST API using pytest and TestClient.",
+      "path": "assignments/automated-testing-with-pytest",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
